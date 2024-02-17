@@ -1,0 +1,11 @@
+cards:
+  message: "This is cards service prod rnv"
+  contactDetails:
+    name: "prod admin cards"
+    email: prod.admincards@xyz.com
+  onCallSupport:
+    - (123) 322-3432
+    - (234) 234-4322
+
+build:
+  version: "1.0_prod_cards"

@@ -1,0 +1,11 @@
+loans:
+  message: "This is loans service dev env"
+  contactDetails:
+    name: "dev admin loans"
+    email: dev.adminloans@xyz.com
+  onCallSupport:
+    - (123) 322-3432
+    - (234) 234-4322
+
+build:
+  version: "1.0_dev_loans"

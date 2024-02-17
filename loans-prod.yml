@@ -1,0 +1,11 @@
+loans:
+  message: "This is loans service prod rnv"
+  contactDetails:
+    name: "prod admin loans"
+    email: prod.adminloans@xyz.com
+  onCallSupport:
+    - (123) 322-3432
+    - (234) 234-4322
+
+build:
+  version: "1.0_prod_loans"

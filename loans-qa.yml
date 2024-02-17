@@ -1,0 +1,11 @@
+loans:
+  message: "This is cards service qa env"
+  contactDetails:
+    name: "qa admin cards"
+    email: qa.admincards@xyz.com
+  onCallSupport:
+    - (123) 322-3432
+    - (234) 234-4322
+
+build:
+  version: "1.0_qa_cards"

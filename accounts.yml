@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "This is account service"
+  contactDetails:
+    name: "admin"
+    email: admin@xyz.com
+  onCallSupport:
+    - (123) 322-3432
+    - (234) 234-4322
