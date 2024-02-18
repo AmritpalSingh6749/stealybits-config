@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "This is account service"
+  message: "This is account default service"
   contactDetails:
     name: "admin"
     email: admin@xyz.com
