@@ -1,7 +1,7 @@
 accounts:
   message: "This is account service qa env"
   contactDetails:
-    name: "qa admin"
+    name: "qaqa admin"
     email: qa.admin@xyz.com
   onCallSupport:
     - (123) 322-3432
